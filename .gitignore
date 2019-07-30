@@ -261,5 +261,5 @@ __pycache__/
 *.pyc
 
 #pyinstaller package
-build/
-dist/
+/pyqttest/build
+/pyqttest/dist
